@@ -1,0 +1,12 @@
+BldcVibe/
+├── settings.gradle.kts
+├── build.gradle.kts
+├── .github/workflows/build.yml
+└── app/
+    ├── build.gradle.kts
+    └── src/main/
+        ├── AndroidManifest.xml
+        ├── java/com/example/bldcvibe/MainActivity.kt
+        └── res/
+            ├── layout/activity_main.xml
+            └── xml/device_filter.xml
